@@ -1,0 +1,40 @@
+Level 1 — Basic NumPy
+    np.array()
+    1D / 2D arrays
+    shape
+    ndim
+    size
+    indexing
+    slicing
+Level 2 — Array Operations
+    +
+    -
+    *
+    /
+    scalar multiplication
+    broadcasting
+Level 3 — Matrix Operations
+    @
+    transpose
+    inverse
+    determinant
+    np.linalg
+    eigenvalues/eigenvectors
+Level 4 — Statistics
+    mean
+    median
+    std
+    variance
+    min
+    max
+    sum
+Level 5 — ML-oriented NumPy
+    vectorization
+    broadcasting
+    normalization
+    standardization
+    feature matrices
+    weight vectors
+    dot products
+    implementing Linear Regression from scratch
+    implementing Gradient Descent from scratch
