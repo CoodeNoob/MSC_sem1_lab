@@ -16,4 +16,9 @@ print(f"Multiply of the array is {arr*arr_1_padded}")
 print(f"Division of the array is {arr%arr_1_padded}")
 
 # Statistical Operations
-
+# finding means 
+print(f"Means of all data is {np.mean(arr)}")
+# finding median
+print(f"Median of all data is {np.median(arr)}")
+# finding min, max
+print(f"Minimum of the given value is {np.min(arr)} & Maximum of the given value is {np.max(arr)}")
