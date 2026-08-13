@@ -1,0 +1,4 @@
+Linear
+y = mx + b
+Non Linear
+y = 2x + 1

@@ -32,3 +32,4 @@ print(f"Trace of the Matrix is {np.trace(matrix)}")
 # EiganValues and Eigan Vectors
 values, vectors = np.linalg.eig(eig_matrix) # matrix must be square
 
+# Flatten the array
