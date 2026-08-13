@@ -26,3 +26,7 @@ print(f"Minimum of the given value is {np.min(arr)} & Maximum of the given value
 print(f"Sum of all values is {np.sum(arr)}")
 # Standard deviations
 print(f"Standard deviation of the array is {np.std(arr)}")
+# Variacnce 
+print(f"Variance of the given array is {np.var(arr)}")
+# Finding the values , it returns true fals
+print(arr[arr > 3])
