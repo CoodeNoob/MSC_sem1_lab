@@ -1,5 +1,5 @@
-Name,BornYear,IsStudent,Country
-Swan,2002,True,Myanmar
-Htet,2002,True,China
-Pyae,2003,True,Thailand
-Bilasj,1993,False,Srilanka
+Name,BornYear,IsStudent,Country,Age,Email,CountryCode
+Swan,2002,True,Myanmar,24,swan@gmail.com,95
+Htet,2002,True,China,24,,95
+Pyae,2003,True,Thailand,23,swan@gmail.com,95
+Bilasj,1993,False,Srilanka,33,bilash@gmail.com,95
