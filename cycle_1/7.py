@@ -22,3 +22,7 @@ print(f"Means of all data is {np.mean(arr)}")
 print(f"Median of all data is {np.median(arr)}")
 # finding min, max
 print(f"Minimum of the given value is {np.min(arr)} & Maximum of the given value is {np.max(arr)}")
+# sum of all values
+print(f"Sum of all values is {np.sum(arr)}")
+# Standard deviations
+print(f"Standard deviation of the array is {np.std(arr)}")
